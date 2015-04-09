@@ -1,0 +1,4 @@
+-- CM160 Owl Energy Monitor Hack
+Testing on RTL-SDR 2830U
+
+Using this to work out the bytes for the radio and pretty much done, we've got 230v coming in and the reading is a perfect match for the monitor output hooked around the incoming AC line right after the meter.
